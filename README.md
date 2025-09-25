@@ -1,2 +1,2 @@
-# katie_mwas
+# Gen AI
 Building Generative AI Application using Jac/Jaseci
